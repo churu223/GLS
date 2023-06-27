@@ -16,7 +16,6 @@ if (!empty($_POST["btnregistrar"])) {
         } else {
             echo "<div class='alert alert-danger'>Algunos de los campos esta vacio</div>";
         }
-        
 
        }else {
         echo "<div class='alert alert-warning'>Algunos de los campos esta vacio</div>";

@@ -1,5 +1,4 @@
 <?php
-
 if (!empty($_GET["id"])) {
  $id=$_GET["id"];
  $sql=$conexion-> query("DELETE FROM `paciente`WHERE `ID_paciente`=$id ");

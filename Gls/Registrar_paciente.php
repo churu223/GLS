@@ -1,7 +1,3 @@
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -121,7 +117,7 @@
                             <td><?= $datos->Aseguradora ?></td>
                             <td>
                                 <a href="modificar_paciente.php?id=<?= $datos->ID_paciente ?>" class="btn btn-small btn-warning"><i class="fa-solid fa-pen-to-square"></i></a>
-                                <a onclick="return eleminar()" href="index.php?id=<?= $datos->ID_paciente ?>" class="btn btn-small btn-danger"><i class="fa-solid fa-trash"></i></a>
+                                <a onclick="return eleminar()" href="Registrar_paciente.php?id=<?= $datos->ID_paciente ?>" class="btn btn-small btn-danger"><i class="fa-solid fa-trash"></i></a>
                             </td>
 
                         </tr>
