@@ -1,1 +1,8 @@
 https://gls10.000webhostapp.com/Gls/Inicio_Seccion.php
+Usuarios login
+administrador
+admin 
+contraseña:12345
+usuario (No completado)
+user 
+contraseña:12345
