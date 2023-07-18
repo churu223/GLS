@@ -1,5 +1,5 @@
 <?php
-ob_start(); // Activar el almacenamiento en búfer de salida
+ob_start();
 
 include "modelo/conexion.php";
 
